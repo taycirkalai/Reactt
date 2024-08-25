@@ -1,0 +1,12 @@
+.cadre {
+    position: fixed;
+    top: 400px; /* réglez la position verticale souhaitée */
+    right: 0;
+    width: 160px; /* réglez la largeur souhaitée */
+    height: 80px;
+    background-color: #ff0101; /* réglez la couleur d'arrière-plan souhaitée */
+    border: 1px solid #ffffff; /* réglez la bordure souhaitée */
+    padding: 10px; /* réglez la marge intérieure souhaitée */
+    box-sizing: border-box; /* empêche le cadre de déborder sur la page */
+    z-index: 9998; /* assurez-vous que le cadre apparaît en dessous du menu */
+ }
